@@ -1,0 +1,29 @@
+# Comentario do primeiro script do curso da OPSA Python para Arquitetos
+
+# x = 'Python para Arquitetos'
+# y = x.upper()
+# print(y)
+
+
+if 5 > 2:
+    print('Five is grat than two!')
+    
+    
+# Variáveis Python
+
+# x = 5
+# y = 'Saul'
+# print(x)
+# print(y)
+
+# x = 4            # x is of type int
+# x = 'Sally'     # x is now of type str
+# print(x)
+
+# Fundição
+
+# x = str(3)            # x será '3'
+# y = int(3)            # y será 3
+# z = float(3)          # z será 3.0
+
+
